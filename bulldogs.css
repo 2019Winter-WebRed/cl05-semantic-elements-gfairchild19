@@ -1,0 +1,15 @@
+/*
+* Grace Fairchild
+* 4/15/2019
+* I Love Bulldogs
+*/
+
+/* The universal selector */
+
+* {
+    
+}
+
+header {background-color:mediumpurple;}
+main {background-color:lavender;}
+footer {background-color:purple;}
